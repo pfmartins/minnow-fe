@@ -1,6 +1,10 @@
 # minnow-fe
 Minnow frontend platform. Try to find yours pods and make a better way to transform your food track service.
-## scripts
+
+## Setup
+
+Run `npm i` to install libraries for this project.
+## Scripts
 
 In the project directory, you can run:
 
